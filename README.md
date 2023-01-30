@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning everything!
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me @arturonline
+- 📫 Reach me at @arturonline
 
 <!---
 arturonline/arturonline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
